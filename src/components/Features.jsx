@@ -87,7 +87,7 @@ const Features = () => {
 
                 <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
                     <BentoCard 
-                        src="/Award-winnig/videos/feature-1.mp4"
+                        src="/Award-winning/videos/feature-1.mp4"
                         description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
                         isComingSoon
                         title={
@@ -103,7 +103,7 @@ const Features = () => {
                 <div className="grid h-[135vh] grid-cols-2 grid-rows-3 gap-7">
                     <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
                         <BentoCard 
-                            src="/Award-winnig/videos/feature-2.mp4"
+                            src="/Award-winning/videos/feature-2.mp4"
                             description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
                             isComingSoon
                             title={
@@ -116,7 +116,7 @@ const Features = () => {
 
                     <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
                         <BentoCard 
-                            src="/Award-winnig/videos/feature-3.mp4"
+                            src="/Award-winning/videos/feature-3.mp4"
                             description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
                             isComingSoon
                             title={
@@ -129,7 +129,7 @@ const Features = () => {
 
                     <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
                         <BentoCard 
-                            src="/Award-winnig/videos/feature-4.mp4"
+                            src="/Award-winning/videos/feature-4.mp4"
                             title={
                                 <>
                                     az<b>u</b>l
@@ -154,7 +154,7 @@ const Features = () => {
 
                     <BentoTilt className="bento-tilt_2">
                         <video
-                            src="/Award-winnig/videos/feature-5.mp4"
+                            src="/Award-winning/videos/feature-5.mp4"
                             loop
                             muted
                             autoPlay
