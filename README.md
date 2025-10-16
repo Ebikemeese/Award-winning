@@ -1,16 +1,17 @@
-# React + Vite
+# 🚀 Zentry Clone – The Metagame Experience (Built by Ebikeme Ese)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Step into the future of web gaming with my **Zentry Clone Website**, an immersive, ultra-smooth experience built entirely with:
 
-Currently, two official plugins are available:
+- ⚡ **React + Vite** – lightning-fast performance  
+- 🎮 **Three.js, drei & fiber** – realistic 3D visuals and interactions  
+- 🌀 **GSAP** – fluid animations and smooth scroll effects  
+- 🎨 **CSS Mastery** – modern, responsive, and aesthetic design  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 **Hosted on GitHub Pages:**  
+👉 [https://ebikemeese.github.io/Award-winning](https://ebikemeese.github.io/Award-winning)
 
-## React Compiler
+💻 **Best viewed on desktop devices** for the full 3D and animation experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔥 It’s not just a clone — it’s a creative reimagination of Zentry’s metaverse-style interface, blending animation, depth, and design excellence into one stunning project.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ **Explore. Scroll. Immerse.**
